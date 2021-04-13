@@ -1,0 +1,156 @@
+{
+    "2_113_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-27",
+        "Notes": "Stack now stays consitent over saves and reloads. \nYou can now define a external component as storage.",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_128_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-01",
+        "Notes": "This now also stores expressions and fades to them smotthly.",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_169_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-04",
+        "Notes": "The curves are now dynamicly named and can in theorie be edited by the user.\nMade the ui a little bit cleaner.\nRemoved all the tables and Lister is now only cosmetic for user experience.\nExporting now also takes the expression mode into consideration.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_174_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-05",
+        "Notes": "The curves are now dynamicly named and can in theorie be edited by the user.\nMade the ui a little bit cleaner.\nRemoved all the tables and Lister is now only cosmetic for user experience.\nExporting now also takes the expression mode into consideration.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_182_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-11",
+        "Notes": "Moved Tagging inside of the component.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_186_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-11",
+        "Notes": "Moved Tagging inside of the component.\nFixed arror message on storing ignored presets.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_187_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-18",
+        "Notes": "Fixed an issue where renaming a component required a tag instead of it being optional.",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_188_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-18",
+        "Notes": "Fixed an issue where renaming a component required a tag instead of it being optional.",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_194_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-20",
+        "Notes": "Made importing presets more robust by checking if target exists. \nExpression now actually finish on the stored expression.",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_195_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-20",
+        "Notes": "Made importing presets more robust by checking if target exists. \nExpression now actually finish on the stored expression.",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_26_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "New VersionControl.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_30_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "Now everything should have the right information.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_32_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "Now everything should have the right information.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_43_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "I, again, left some presets in the comp for release. My bad.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_45_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-21",
+        "Notes": "Added the preload column. With this certain parameters can be set to the desired value in 0 seconds beforehand. This can be handy for preloading movies or setting color before a fadein, stuff like that.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_55_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-01-21",
+        "Notes": "Added curved fading between values. There are currently 4 styles of curves. ",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_77_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-02-09",
+        "Notes": "Fixed an error about not cooking opExecute.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_78_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-02-09",
+        "Notes": "Fixed an error about not cooking opExecute.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_85_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-02-10",
+        "Notes": "Fixed an error about not cooking opExecute.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_87_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-02-10",
+        "Notes": "Endsnap now works with non fadeable parameters.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_92_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-04",
+        "Notes": "Changed the way the last preset is stored. Presets with the id \"Ignore:\" will be recallable but otherwise ignore.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_96_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-10",
+        "Notes": "Added Callback for preset storage.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    }
+}

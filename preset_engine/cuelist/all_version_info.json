@@ -1,0 +1,58 @@
+{
+    "2_113_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-27",
+        "Notes": "You can now define a preset which will be loaded to the stack before the actual record takes place. this way you can create several cuelists without the need to take care of the stack.",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_174_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-05",
+        "Notes": "Actually nothing new,",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_186_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-11",
+        "Notes": "Added tagging to the cuelist.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_197_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-20",
+        "Notes": "Selects newly created cue for convinience.",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_34_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "There was a stupid error. Really. ",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_43_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "Again left some cues. Big Nono!",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_45_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-21",
+        "Notes": "You can now check if a preset should be preloaded when it get selected. Might be handy for movie stuff.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_55_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-01-21",
+        "Notes": "Added curve selection to cues.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    }
+}

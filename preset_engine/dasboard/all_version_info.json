@@ -1,0 +1,100 @@
+{
+    "2_113_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-27",
+        "Notes": "You can now define a preset which will be loaded to the stack before the actual record takes place. this way you can create several dashboards without the need to take care of the stack.",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_123_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-31",
+        "Notes": "Coloring now finaly works as intendet. \nStill hunting for the not being persitent over saves part",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_137_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-02",
+        "Notes": "You can nowstore a whole set of buttons. Also reloading the last used dashboard on restart should work better as it is recalled delayed",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_169_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-04",
+        "Notes": "Added a filter for creating the buttons to filter from all the presets.\nYou can now map a button to an existing preset.\nyou can store banks and reload them.\nalso you can now activate an autoload when the bank parameter changes,",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_170_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-04",
+        "Notes": "Added a Tag parameter. This will create a Tag before the presets engine internaly! All Presets in the engine will have that suffix. Changing the tag after recording disables the presets for use with this component (als long as any tag is set).\nWhen no tag is set everything stays as it is.\n",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_174_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-05",
+        "Notes": "Added a Tag parameter. This will create a Tag before the presets engine internaly! All Presets in the engine will have that suffix. Changing the tag after recording disables the presets for use with this component (als long as any tag is set).\nWhen no tag is set everything stays as it is.\n",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_186_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-11",
+        "Notes": "Reved tags left over from dev.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_187_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-12",
+        "Notes": "Reved tags left over from dev. Disabled autoload of the new bank.",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_196_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-20",
+        "Notes": "You can now name your preset on recording,",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_197_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-20",
+        "Notes": "You can now name your preset on recording, Behaves kinda weird when doing that with an override. So maybe not?\n",
+        "TD Build": "2020.22080",
+        "TD Version": "099"
+    },
+    "2_31_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "Now everything should have the right information.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_33_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "Now everything should have the right information.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_43_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "SmallerIncrements. Nothing special!",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_55_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-01-21",
+        "Notes": "Added curve selection to recall.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    }
+}

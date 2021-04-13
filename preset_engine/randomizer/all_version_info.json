@@ -1,0 +1,23 @@
+{
+    "2_29_Preview": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-27",
+        "Notes": "First Release.",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_2_Preview": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-02-10",
+        "Notes": "First Release.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_90_Preview": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-05",
+        "Notes": "Ashiny new UI",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    }
+}

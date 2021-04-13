@@ -1,0 +1,44 @@
+{
+    "2_113_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-03-27",
+        "Notes": "You can now define a preset which will be loaded to the stack before the actual record takes place. this way you can create several midimaps without the need to take care of the stack.",
+        "TD Build": "2020.20020",
+        "TD Version": "099"
+    },
+    "2_174_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-05",
+        "Notes": "Added Tagging functionality.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_186_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2020-04-11",
+        "Notes": "Added Tagging functionality.",
+        "TD Build": "2020.20625",
+        "TD Version": "099"
+    },
+    "2_36_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "There was a stupid error. Really. ",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_40_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "Nothing new. Just getting used to my new VC tool.",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    },
+    "2_43_": {
+        "Author": "Alpha Moonbase",
+        "Date": "2019-12-17",
+        "Notes": "SmallerIncrements. Nothing special!",
+        "TD Build": "2019.19930",
+        "TD Version": "099"
+    }
+}
